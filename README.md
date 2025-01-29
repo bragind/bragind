@@ -40,8 +40,3 @@ Lead Security Systems Engineer, with 15 years of experience in the IT industry i
 *   https://github.com/bragind/animal_detection.git
 *   https://github.com/bragind/parcerHH.git
 
-<div align="center" style="margin: 40px 0">
-   <a href="https:///bragind/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=/bragind&color=DE002D">
-   </a>
-</div>
