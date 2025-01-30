@@ -22,7 +22,7 @@ Lead Security Systems Engineer, with 15 years of experience in the IT industry i
 *   https://www.kaggle.com/dmitriybragin
    
 ## 🛠 Technical Stack
-*   Python, C/C++, Assembler languages
+*   Python, C/C++, Assembly languages
 *   SQL
 *   Linux,Docker, CI/CD 
 *   GitHub
