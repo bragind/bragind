@@ -24,7 +24,7 @@ Security Systems Engineer, with 15 years of experience in the IT industry in var
 ## 🛠 Technical Stack
 *   Python, C/C++
 *   SQL
-*   Linux, Docker, Vagrant, CI/CD 
+*   Linux, Docker, Vagrant
 *   GitHub
   
 
