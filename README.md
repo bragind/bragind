@@ -1,5 +1,5 @@
 # Hi, I'm Dmitriy 👋
-Development Engineer, with 15 years of experience in the IT industry in various positions. Since 2024, I have been studying for a Master's degree at MEPhI in the field of "Applied Mathematics and Informatics", мy specialization is "Machine Learning", my areas of interest also include unmanned autonomous systems and robotics.
+Development Engineer, with 15 years of experience in the IT industry in various positions. Since 2024, I have been studying for a Master's degree at MEPhI in the field of "Applied Mathematics and Informatics", мy specialization is "Machine Learning".
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=bragind&show_icons=true&count_private=true"><img
            height=150
@@ -32,6 +32,8 @@ Development Engineer, with 15 years of experience in the IT industry in various 
 *   RISC-V development
 *   FPGA development
 *   Space technologies (CubeSat)
+*   Unmanned autonomous systems
+*   Robotics
 
 
 
