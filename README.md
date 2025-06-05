@@ -1,5 +1,5 @@
 # Hi, I'm Dmitriy 👋
-Security Systems Engineer, with 15 years of experience in the IT industry in various positions. Since 2024, I have been studying for a Master's degree at MEPhI in the field of "Applied Mathematics and Informatics", мy specialization is "Machine Learning", my areas of interest also include low-level programming, digital circuit design, and satellite systems.
+Development Engineer, with 15 years of experience in the IT industry in various positions. Since 2024, I have been studying for a Master's degree at MEPhI in the field of "Applied Mathematics and Informatics", мy specialization is "Machine Learning", my areas of interest also include low-level programming, digital circuit design, and satellite systems.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=bragind&show_icons=true&count_private=true"><img
            height=150
