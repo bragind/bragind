@@ -22,8 +22,10 @@ Development Engineer, with 15 years of experience in the IT industry in various 
 *   https://www.kaggle.com/dmitriybragin
    
 ## 🛠 Technical Stack
-*   Python 
-*   Linux, Docker, Vagrant
+*   Python
+*   С/С++ 
+*   Linux, Docker
+*   Virtualization
 *   GitHub
 *   ML, DL
   
