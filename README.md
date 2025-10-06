@@ -29,11 +29,11 @@ Development Engineer, with 15 years of experience in the IT industry in various 
   
 
 ## My research interests include
-*   FPGA development
-*   Space technologies (CubeSat)
-*   Unmanned autonomous systems
+*   Robotics
+*   Unmanned aircraft
+*   Аutomation
 
 ### My projects
 *   https://github.com/bragind/animal_detection.git
-*   https://github.com/bragind/parcerHH.git
+  
 
