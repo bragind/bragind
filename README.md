@@ -28,6 +28,7 @@ Development Engineer, with 15 years of experience in the IT industry in various 
 *   Virtualization
 *   GitHub
 *   ML, DL
+*   MLOps
   
 
 ## My research interests include
