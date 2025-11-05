@@ -38,5 +38,6 @@ Development Engineer, with 15 years of experience in the IT industry in various 
 
 ### My projects
 *   https://github.com/bragind/client_defolt_project.git
+*   https://github.com/bragind/stock_forecast_bot.git
   
 
