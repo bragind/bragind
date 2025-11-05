@@ -37,6 +37,6 @@ Development Engineer, with 15 years of experience in the IT industry in various 
 *   Аutomation
 
 ### My projects
-*   https://github.com/bragind/animal_detection.git
+*   https://github.com/bragind/client_defolt_project.git
   
 
