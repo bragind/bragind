@@ -3,7 +3,7 @@
 Since 2024, I’ve been pursuing a Master’s degree in **Applied Mathematics and Informatics** at **MEPhI**, specializing in **Machine Learning**.
 
 ### 👀 I’m currently looking for  
-A **Senior MLOps Engineer** or **AI Systems Developer** role where I can apply my expertise in:
+A **MLOps Engineer** or **AI Systems Developer** role where I can apply my expertise in:
 - End-to-end ML pipelines (data validation → model serving → monitoring),
 - Deploying ML models in containerized and resource-constrained environments,
 - Integrating AI into autonomous systems (drones, robotics, edge devices).
@@ -26,12 +26,12 @@ A **Senior MLOps Engineer** or **AI Systems Developer** role where I can apply m
 - **ML/DL**: Scikit-learn, MLflow, DVC, Pandas, NumPy, Transformers (RuBERT, MathBERT)
 - **MLOps**: CI/CD (GitHub Actions), Docker, FastAPI, Model Monitoring, Drift Detection
 - **Systems**: Linux, Embedded Environments, Virtualization
-- **Other**: Git, Makefile, Redis, Alembic, pytest, LaTeX (ГОСТ-compliant)
+- **Other**: Git, Makefile, Redis, Alembic, pytest, LaTeX 
 
 ### 🌐 My Interests
 - Autonomous robotics & swarm intelligence  
 - MLOps for edge and embedded systems  
-- AI assistants for engineering (e.g., GOST lookup, HR text generation)  
+- AI assistants 
 - Multimodal perception and decision-making under uncertainty  
 
 ---
