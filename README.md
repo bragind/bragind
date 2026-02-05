@@ -3,10 +3,11 @@
 Since 2024, I’ve been pursuing a Master’s degree in **Applied Mathematics and Informatics** at **MEPhI**, specializing in **Machine Learning**.
 
 ### 👀 I’m currently looking for  
-A **MLOps Engineer** or **AI Systems Developer** role where I can apply my expertise in:
-- End-to-end ML pipelines (data validation → model serving → monitoring),
-- Deploying ML models in containerized and resource-constrained environments,
-- Integrating AI into autonomous systems (drones, robotics, edge devices).
+A **Backend Developer** or **AI Systems Developer** role where I can apply my experience in:
+- Designing and implementing production-grade backend services (FastAPI, async Python, clean architectures),
+- Building and deploying LLM/RAG systems with vector stores, embeddings, and retrieval pipelines,
+- Containerizing and operating AI services (Docker, CI/CD) in resource-constrained or on-prem environments,
+- ntegrating AI capabilities into real-world systems (APIs, automation tools, edge and local setups).
 
 ---
 
