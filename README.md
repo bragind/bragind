@@ -1,13 +1,21 @@
 # Hi, I'm Dmitriy 👋  
-**Development Engineer** with 15 years of experience in the IT industry.  
-Since 2024, I’ve been pursuing a Master’s degree in **Applied Mathematics and Informatics** at **MEPhI**, specializing in **Machine Learning**.
+**AI Systems & Autonomous Robotics Engineer** with 15 years  in IT and engineering.  
+Currently pursuing a Master's degree in Applied Mathematics and Infotmatics at MEPhI, focused on Machine Learning,
+autonomous systems, and distributed decision-making.
+
+I build practical AI/ML an robotics systems:
+- ROS2/Gazebo simulation stands for multi-agent and autonomous systems
+- MLOps pipelines with MLflow, DVC, FastAPI, Docker, CI/CD and monitoring
+- C++/Qt and embedded-oriented prototypes for marine and navigation systems
+- Sensor fusion, telemetry processing, GNSS/IMU validation and edge AI concepts
 
 ### 👀 I’m currently looking for  
-A **Backend Developer** or **AI Systems Developer** role where I can apply my experience in:
-- Designing and implementing production-grade backend services (FastAPI, async Python, clean architectures),
-- Building and deploying LLM/RAG systems with vector stores, embeddings, and retrieval pipelines,
-- Containerizing and operating AI services (Docker, CI/CD) in resource-constrained or on-prem environments,
-- ntegrating AI capabilities into real-world systems (APIs, automation tools, edge and local setups).
+Remote or hybrid roles in:
+- AI Systems Engineering
+- MLOps / ML Engineering
+- Robotics / Autonomuous Systems
+- Embedded Linux / Navigation Systems
+I am especially interested in projects involving UAVs, marine autonomy, sensor fusion, telemetry, simulation and AI-assisted decision-making.
 
 ---
 
