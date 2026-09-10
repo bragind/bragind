@@ -1,7 +1,6 @@
 # Hi, I'm Dmitriy 👋  
-**AI Systems & Autonomous Robotics Engineer** with 15 years  in IT and engineering.  
-Currently pursuing a Master's degree in Applied Mathematics and Infotmatics at MEPhI, focused on Machine Learning,
-autonomous systems, and distributed decision-making.
+**C++/ Embedded & Robotics Enginer with | Autonomous Systems | Linux | ROS2 | UAV/Marine Robotics
+.
 
 I build practical AI/ML an robotics systems:
 - ROS2/Gazebo simulation stands for multi-agent and autonomous systems
