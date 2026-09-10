@@ -17,7 +17,7 @@ I have an engineering background combining:
 - development and integration of engineering systems;
 - system configuration, testing and commissioning;
 - technical requirements and interface definition;
-- engineering documentation according to ESKD;
+- engineering documentation;
 - mathematical modeling and data processing;
 - software development in C/C++ and Python.
 
