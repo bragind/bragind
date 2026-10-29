@@ -214,27 +214,6 @@ Current research topics include:
 - intelligent onboard systems;
 - autonomous marine platforms.
 
-### Publications
-
-**Архитектура управления роем роботизированных платформ на базе ROS 2/DDS**
-
-International scientific journal *Вестник науки*, № 6 (99), 2026.
-
----
-
-**Сценарно-метрическая оценка устойчивости алгоритмов управления роем роботизированных платформ**
-
-Journal *Нефть и газ: опыт и инновации*, 2026.
-
----
-
-**Архитектура распределённой бортовой системы управления гетерогенным роем роботизированных платформ**
-
-Proceedings of the CXXVII International Scientific and Practical Conference  
-*Экспериментальные и теоретические исследования в современной науке*, 2026.
-
----
-
 # Education
 
 ### National Research Nuclear University MEPhI
