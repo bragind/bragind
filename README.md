@@ -303,29 +303,6 @@ Qualification:
 
 ---
 
-# Engineering Approach
-
-I am interested not only in writing software, but in understanding the complete system:
-
-```text
-Sensors
-   ↓
-Data acquisition
-   ↓
-Embedded software
-   ↓
-Signal processing
-   ↓
-Sensor fusion
-   ↓
-State estimation
-   ↓
-Decision making
-   ↓
-Control
-   ↓
-Actuators
-```
 
 This systems perspective is especially relevant to:
 
